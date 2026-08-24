@@ -4,8 +4,8 @@ I'm **Brennan Colon**, currently pursuing a degree in **Data Science** at **Illi
 
 ## A Little About Me
 
-* 🏃 I love to run and completed my **first marathon this April**!
-* 📚 I'm a big reader — always open to a good **book recommendation**!
-* 🏀 **Chicago Bulls superfan** ❤️
+* 🏃 I love to run and completed my first marathon this April
+* 📚 I'm a big reader (always open to a good book recommendation)
+* 🏀 Chicago Bulls superfan 
 
 Thanks for stopping by my profile!
