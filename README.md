@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm **Brennan Colon**, currently pursuing a degree in **Data Science** at **Illinois State University**, with a focus on **Big Data** and **Computational Intelligence**.
+I'm **Brennan Colon**, currently pursuing a degree in **Data Science** at **Illinois State University**, with a focus on **Big Data and Computational Intelligence**.
 
 ## A Little About Me
 
